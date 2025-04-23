@@ -1,7 +1,7 @@
 A fully responsive mini web project featuring a stylish navbar and paginated content grid, built using HTML, CSS, and JavaScript. 
 Perfect as a beginner-friendly UI component or base for a larger front-end project.
 
-Live Demo : 
+## Live Demo : https://sinchanaks130.github.io/Navbar-Pagination-/
 
 ✨ Features
 📱 Responsive Navbar with hamburger menu for mobile view
